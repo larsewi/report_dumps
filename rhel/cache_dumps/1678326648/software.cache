@@ -1,3 +1,4 @@
+name,version,architecture
 microcode_ctl,20191115-4.el8,x86_64
 tzdata,2019c-1.el8,noarch
 zlib,1.2.11-13.el8,x86_64

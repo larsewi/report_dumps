@@ -1,3 +1,4 @@
+name,meta
 have_module_udp_diag,source=promise
 cfengine_internal_rotate_logs,source=promise
 _stdlib_path_exists_awk,source=promise

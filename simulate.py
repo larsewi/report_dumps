@@ -20,28 +20,7 @@ def main():
                 continue
 
             for filename in filenames:
-                if "classes" in filename:
-                    header = "name,meta\r\n"
-                elif "execution_log" in filename:
-                    header = "promise_hash,policy_filename,release_id,promise_outcome,namespace,bundle,promise_type,promiser,stack_path,handle,promisee,messages,line_number,policy_file_hash\r\n"
-                elif "lastseen" in filename:
-                    header = "direction,hostkey,address,interval,lastseen\r\n"
-                elif "patch" in filename:
-                    header = "name,version,architecture,status\r\n"
-                elif "software" in filename:
-                    header = "name,version,architecture\r\n"
-                elif "variables" in filename:
-                    header = "namespace,bundle,name,type,value,meta\r\n"
-                else:
-                    assert(False)
-
-                with open(os.path.join(dirpath, filename), "r") as f:
-                    content = f.read()
-
-                with open(os.path.join(dirpath, filename), "w") as f:
-                    f.write(header)
-                    f.write(content)
-
+                pass
 
 
 if __name__ == "__main__":

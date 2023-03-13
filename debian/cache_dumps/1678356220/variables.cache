@@ -1,3 +1,4 @@
+namespace,bundle,name,type,value,meta
 default,mon,av_mysql_in,0,0.00,"monitoring,source=environment"
 default,paths,var_path,0,/var,source=promise
 default,cfe_autorun_inventory_proc,modules[30][3],0,-,"source=function,function=buildlinearray"

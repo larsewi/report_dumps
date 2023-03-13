@@ -1,3 +1,4 @@
+name,meta
 cfengine_internal_rotate_logs,source=promise
 have_module_serio_raw,source=promise
 _stdlib_path_exists_ethtool,source=promise

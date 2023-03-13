@@ -1,3 +1,4 @@
+name,version,architecture
 libglib2.0-data,2.72.1-1,all
 multipath-tools,0.8.8-1ubuntu1,amd64
 libxtables12,1.8.7-1ubuntu5,amd64

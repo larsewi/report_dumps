@@ -1,3 +1,4 @@
+name,version,architecture,status
 hwdata,0.252-9.7.el7,x86_64,0
 binutils,2.27-44.base.el7_9.1,x86_64,0
 selinux-policy,3.13.1-268.el7_9.2,noarch,0

@@ -1,3 +1,4 @@
+name,version,architecture
 groff-base,1.22.2-8.el7,x86_64
 e2fsprogs,1.42.9-13.el7,x86_64
 basesystem,10.0-7.el7.centos,noarch

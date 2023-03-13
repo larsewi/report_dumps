@@ -1,3 +1,4 @@
+name,meta
 linux_x86_64_5_15_0_1011_aws__14_Ubuntu_SMP_Wed_Jun_1_20_54_22_UTC_2022,"source=agent,derived-from=sys.long_arch,hardclass"
 cfengine_internal_rotate_logs,source=promise
 ssh_out_low,"monitoring,source=environment,hardclass"

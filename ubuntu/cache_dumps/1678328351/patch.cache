@@ -1,3 +1,4 @@
+name,version,architecture,status
 kpartx,0.8.8-1ubuntu1.22.04.1,amd64,0
 libsasl2-2,2.1.27+dfsg2-3ubuntu1.2,amd64,0
 libctf0,2.38-4ubuntu2.1,amd64,0
